@@ -14,6 +14,12 @@
 
     <name>abner-rpc</name>
     <description>abner-rpc</description>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
     <packaging>pom</packaging>
 
     <properties>
